@@ -1,0 +1,11 @@
+/target/
+.classpath
+.project
+.settings/
+bin
+/data/*
+fetch.csv
+url.csv
+visit.csv
+urlsRequired.csv
+

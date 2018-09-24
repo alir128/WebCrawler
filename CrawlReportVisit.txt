@@ -1,0 +1,39 @@
+Fetch Statistics
+================
+# fetches attempted: 19697
+# fetches succeeded: 17497
+# fetches aborted or failed: 2200
+Outgoing URLs:
+==============
+Total URLs extracted: 3579257
+# unique URLs extracted: 15106
+# unique URLs within News Site: 64878
+# unique URLs outside News Site: 3514371
+Status Codes:
+=============
+200 OK: 17495
+204 No Content: 2
+301 Moved Permanently: 523
+302 Found: 735
+303 See Other: 6
+400 Bad Request: 32
+401 Unauthorized: 3
+403 Forbidden: 751
+404 Not Found: 121
+405 Method Not Allowed: 20
+500 Internal Server Error : 1
+503 Service Unavailable: 8
+File Sizes:
+===========
+< 1KB: 0
+1KB ~ <10KB:0
+10KB ~ <100KB:1
+100KB ~ <1MB: 11
+>= 1MB: 15096
+Content Types:
+==============
+text/html: 16002
+image/gif:
+image/jpeg:
+image/png:
+application/pdf:
